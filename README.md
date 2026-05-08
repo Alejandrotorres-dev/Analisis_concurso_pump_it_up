@@ -1,6 +1,6 @@
 # Analisis_concurso_pump_it_up
 Pump it Up: Data Mining the Water Table fue una competición de ciencia de datos organizada por DrivenData
-junto con el Ministerio de Agua de Tanzania. Realicé una limpieza de datos, exploración de datos y alicación de Random Forest,XG Boost y Red Neuronal. Obtención de un accuracy de 80 % con Random Forest
+junto con el Ministerio de Agua de Tanzania. Realicé una limpieza de datos, exploración de datos y alicación de Random Forest,XG Boost y Red Neuronal. Obtención de un accuracy de 82 % con Random Forest
 
 
 
