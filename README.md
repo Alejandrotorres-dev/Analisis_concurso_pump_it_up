@@ -19,3 +19,5 @@ Detectar qué bombas estaban fallando,
 priorizar reparaciones,
 mejorar el acceso al agua potable,
 usar mejor los recursos públicos.
+
+Para verlo abrir final_Alejandro.ipynb
