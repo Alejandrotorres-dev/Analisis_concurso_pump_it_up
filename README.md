@@ -21,3 +21,5 @@ mejorar el acceso al agua potable,
 usar mejor los recursos públicos.
 
 Para verlo abrir final_Alejandro.ipynb
+<img width="564" height="149" alt="1" src="https://github.com/user-attachments/assets/36c619d9-f6e1-45f7-9c40-613e09f72259" />
+
